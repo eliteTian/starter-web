@@ -8,4 +8,12 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+add something here
+
 ## deployment
+
+add something there
+
+## local changes
+
+blah 

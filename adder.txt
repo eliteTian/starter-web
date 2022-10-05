@@ -1,0 +1,18 @@
+total 86
+drwxr-xr-x 1 josh.tian 1049089     0 Oct  5 11:25 ./
+drwxr-xr-x 1 josh.tian 1049089     0 Oct  5 11:22 ../
+drwxr-xr-x 1 josh.tian 1049089     0 Oct  5 11:25 .git/
+-rw-r--r-- 1 josh.tian 1049089 39014 Oct  5  2022 .htaccess
+-rw-r--r-- 1 josh.tian 1049089  3959 Oct  5  2022 apple-touch-icon.png
+-rw-r--r-- 1 josh.tian 1049089   416 Oct  5  2022 browserconfig.xml
+drwxr-xr-x 1 josh.tian 1049089     0 Oct  5 11:22 css/
+-rw-r--r-- 1 josh.tian 1049089   766 Oct  5  2022 favicon.ico
+drwxr-xr-x 1 josh.tian 1049089     0 Oct  5 11:22 fonts/
+drwxr-xr-x 1 josh.tian 1049089     0 Oct  5  2022 img/
+-rw-r--r-- 1 josh.tian 1049089  5329 Oct  5  2022 index.html
+drwxr-xr-x 1 josh.tian 1049089     0 Oct  5 11:22 js/
+-rw-r--r-- 1 josh.tian 1049089    78 Oct  5  2022 robots.txt
+-rw-r--r-- 1 josh.tian 1049089  1854 Oct  5  2022 tile-wide.png
+-rw-r--r-- 1 josh.tian 1049089  3482 Oct  5  2022 tile.png
+
+josh.tian@YVR1LTNI305 MINGW64 ~/Projects/wep-proj (master)
